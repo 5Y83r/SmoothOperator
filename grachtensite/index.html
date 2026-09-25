@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmoothOperator - Map</title>
+    <link rel="icon" type="image/png" href="boat.png">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
+    <link href="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css?v=3">
+    <link rel="stylesheet" href="ui_controls.css?v=3">
+    <script>
+        // This is a full-screen map app with a fixed side panel; the page
+        // itself should never visibly scroll. If a browser's rubber-band /
+        // overscroll effect (or scroll chaining from the panel's own inner
+        // scroll) ever nudges it anyway, snap back instantly instead of
+        // leaving the header/panel corner adrift off-screen.
+        window.addEventListener("scroll", function () {
+            if (window.scrollX !== 0 || window.scrollY !== 0) window.scrollTo(0, 0);
+        }, { passive: true });
+    </script>
+</head>
+<body>
+    <div class="main-flex-row">
+        <div id="map-container">
+            <div id="map"></div>
+            <div id="route-info"></div>
+            <div id="route-buttons">
+                <button id="reset-route-btn">Reset Route</button>
+                <button id="undo-route-btn">Undo</button>
+                <button id="gps-btn">GPS</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+    <script src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js"></script>
+    <script src="script.js?v=3"></script>
+    <script src="ui_controls.js?v=3"></script>
+    <script src="feature_layer_bridge.js?v=3"></script>
+    <script src="live_routing.js?v=3"></script>
+    <script src="bridge_search.js?v=3"></script>
+    <script src="toilet_search.js?v=3"></script>
+    <script src="route_search.js?v=3"></script>
+    <script src="demo_routes.js?v=3"></script>
+    <script src="route_compatibility.js?v=3"></script>
+</body>
+</html>

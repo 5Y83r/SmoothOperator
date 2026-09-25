@@ -1,0 +1,2127 @@
+{
+ "type": "FeatureCollection",
+ "name": "Amsterdam public toilets",
+ "generated_note": "Baked from Gemeente Amsterdam open data (Openbare toiletten) by tools/refresh_toilets.py.",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8900955,
+     52.3672802
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Singel tov Bloemenmarkt",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8892087,
+     52.3674372
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Koningsplein",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.5,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8922195,
+     52.3662449
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Urilift",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 07.00 - 09.00 h relocates to underground.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.898217,
+     52.3739024
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Oudekerkplein Zuidzijde",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.892413,
+     52.37708
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Singel tov 43",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.884908,
+     52.374496
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Westermarkt Prinsengracht - twee krullen",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.889051,
+     52.373057
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Singel / Raadhuisstraat",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.889522,
+     52.374254
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Singel tov 167",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.888361,
+     52.370394
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Singel tov 311",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.894051,
+     52.378983
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Brouwersgracht / Singel nabij Singelsluis",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.898922,
+     52.3744669
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Oudekerkplein noordzijde",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.898609,
+     52.373178
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Oudezijds Achterburgwal tov 78",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89816,
+     52.372601
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Oudezijds Achterburgwal / Brandesteeg",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89553,
+     52.371457
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Oudezijds Voorburgwal, Prinsenhof / Hotel The Grand",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.889736,
+     52.364351
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Nieuwe Spiegelgracht - Keizersgracht",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8985876,
+     52.3639136
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Utrechtse straat",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.880664,
+     52.379636
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Lindengracht",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.877074,
+     52.368764
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Marnixstraat - Elandsgracht tov bureau van Politie",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8864027,
+     52.3619726
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Lijnbaansgracht 282",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8961937,
+     52.3620631
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Amstelveld",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8801821,
+     52.3812911
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Marnixplantsoen, nabij brug",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0,
+     0
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Nieuwe Achtergracht",
+    "opening_hours": "",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.865594,
+     52.358558
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Nabij het pierenbadje",
+    "opening_hours": "geopend wanneer het pierenbadje open is: wanneer het zonnig is en warmer dan 20 graden, mei t/m september 10.00 tot 18.00 h.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.871436,
+     52.358575
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "nabij openluchtheater",
+    "opening_hours": "alleen geopend tijdens evenementen in de lente en (na) zomer",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.886989,
+     52.35404
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Ruysdaelkade / Govert Flinckstraat",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.886433,
+     52.357767
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Hobbemakade /  Honthorststraat - Brandweerkazerne",
+    "opening_hours": "24 hours per day",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8784841,
+     52.3556267
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Naast het Concertgebouw",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.891667,
+     52.379413
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Herenmarkt / Brouwersgracht",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.911695,
+     52.37022
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Kadijksplein",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.913126,
+     52.3676861
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Kerklaan, nabij ingang Artis",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.919494,
+     52.360293
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Oosterpark",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.856356,
+     52.3593632
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Derde kostverlorenkade / Vosmaerstraat",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.884215,
+     52.343593
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Toilet bij kiosk en pierenbad, beheerd door de gemeente",
+    "opening_hours": "open bij mooi weer, tijdens openingstijden parkkiosk. zie http://parkkiosk.nl/. circa 8:00-18:00.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9221546,
+     52.3859969
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Meeuwenlaan / Hamerstraat",
+    "opening_hours": "",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9226835,
+     52.3903263
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Openbaar toilet bij het pierenbadje.\r\nGerenoveerd in 2019",
+    "opening_hours": "alleen open als pierenbadje ook open is als het boven de 20 graden is en mei through september. meer informatie: https://www.amsterdam.nl/sport/zwemmen/openbare/",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.895908,
+     52.3652109
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Urilift",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 07.00 - 09.00 h relocates to underground.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89684,
+     52.3661357
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Urilift",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 07.00 - 09.00 h relocates to underground.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8954716,
+     52.3670664
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Urilift",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 07.00 - 09.00 h relocates to underground.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90012,
+     52.366569
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Urilift",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 07.00 - 09.00 h relocates to underground.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0,
+     0
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "",
+    "opening_hours": "",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8934825,
+     52.3244413
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9035267,
+     52.3822
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Buiksloterwegveer",
+    "opening_hours": "",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8950783,
+     52.3740568
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Beursplein, Fietsenstalling",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.5,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9407396,
+     52.313946
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Arena, P+R",
+    "opening_hours": "",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8454177,
+     52.3790613
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "P+R (alleen voor parkeerders)",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8897745,
+     52.3397984
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Rai, P+R (alleen voor parkeerders)",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8384517,
+     52.3900344
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "P+R (alleen voor parkeerders)",
+    "opening_hours": "24 hours per day",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8551699,
+     52.3443055
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Olympisch Stadion, P+R (alleen voor parkeerders)",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8828409,
+     52.3638526
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Urilift",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 07.00 - 09.00 h relocates to underground.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9363291,
+     52.3979741
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Buikslotermeerplein / Het Breed, Taxistandplaats",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8844891,
+     52.3849458
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Willemspoort, Parkeergarage (alleen voor parkeerders)",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9142073,
+     52.3780827
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Parkeergarage (alleen voor parkeerders)",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9085917,
+     52.3698034
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Parkeergarage (alleen voor parkeerders)",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9011082,
+     52.36735
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Amstel 1, Parkeergarage (alleen voor parkeerders)",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.916832,
+     52.4078986
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "De Banne, Parkeergarage (alleen voor parkeerders)",
+    "opening_hours": "24 hours per day",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9414285,
+     52.3103656
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Parkeergarage",
+    "opening_hours": "",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9456903,
+     52.3117427
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Parkeergarage",
+    "opening_hours": "",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9384517,
+     52.3118226
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Parkeergarage",
+    "opening_hours": "",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8837227,
+     52.3623231
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Urilift",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 07.00 - 09.00 h relocates to underground.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8836773,
+     52.3843331
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Haarlemmerplein",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9939258,
+     52.3932128
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Dorpsweg Ransdorp naast bushalte kerk",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0251367,
+     52.4132206
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Dorpsstraat Holysloot - naast bushalte Kerk",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9651492,
+     52.383644
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Wijkergouw / Schellingwoude Kerk",
+    "opening_hours": "24",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.951276,
+     52.3973067
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Beemesterstraat / IJdoornlaan",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9051621,
+     52.3652648
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Nieuwe Keizersgracht / Weesperstraat",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9108778,
+     52.3632207
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Nieuwe Achtergracht / Roetersstraat",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.900592,
+     52.3732588
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "Nieuwmarkt / Geldersekade",
+    "opening_hours": "24 hours",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9593458,
+     52.3721075
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "P+R Zeeburg",
+    "opening_hours": "24 hours per day",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.5,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9008307,
+     52.3678834
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Stadsloket",
+    "opening_hours": "alle werkdagen geopend 08.00 - 18.00 h en op Thursdayen tot 20.00 h.",
+    "days_open": "Mon-Tue-Wed-Thu-Fri",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9330557,
+     52.4010569
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Stadsloket",
+    "opening_hours": "alle werkdagen geopend 08.00 - 18.00 h en op Thursdayen tot 20.00 h.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9308932,
+     52.356721
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Stadsloket",
+    "opening_hours": "alle werkdagen geopend 08.00 - 18.00 h en op Thursdayen tot 20.00 h.",
+    "days_open": "Mon-Tue-Wed-Thu-Fri",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8938577,
+     52.3404557
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Stadsloket",
+    "opening_hours": "alle werkdagen geopend 08.00 - 18.00 h en op Thursdayen tot 20.00 h.",
+    "days_open": "Mon-Tue-Wed-Thu-Fri",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8451906,
+     52.3781623
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Stadsloket",
+    "opening_hours": "alle werkdagen geopend 08.00 - 18.00 h en op Thursdayen tot 20.00 h.",
+    "days_open": "Mon-Tue-Wed-Thu-Fri",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8058379,
+     52.3579491
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Stadsloket",
+    "opening_hours": "alle werkdagen geopend 08.00 - 18.00 h en op Thursdayen tot 20.00 h.",
+    "days_open": "Mon-Tue-Wed-Thu-Fri",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9565068,
+     52.3161816
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Stadskantoor",
+    "opening_hours": "alle werkdagen geopend 08.00 - 18.00 h en op Thursdayen tot 20.00 h.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8908454,
+     52.3727418
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 07.00 - 09.00 h relocates to underground.",
+    "days_open": "Thu-Fri-Sat",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8933753,
+     52.3295026
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8920712,
+     52.3324386
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "MV toiletgebouw",
+    "opening_hours": "8.00 h tot een half h vóór zonsondergang.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8949128,
+     52.3659589
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Green Pee, urinor met groene uitstraling met planten.",
+    "opening_hours": "alleen tijdens nachtelijke uren",
+    "days_open": "Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8948618,
+     52.366031
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Green Pee, urinor met groene uitstraling met planten.",
+    "opening_hours": "alleen tijdens de nachtelijke uren",
+    "days_open": "Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9850582,
+     52.3106669
+    ]
+   },
+   "properties": {
+    "name": "Amsterdammertje (street urinal)",
+    "location": "",
+    "opening_hours": "",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8922447,
+     52.3645638
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Stadsarchief de Bazel",
+    "opening_hours": "Monday t/m Friday: 9.00 - 17.00 h. Saturday en Sunday: 12.00 - 17.00 h.",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9085149,
+     52.3624329
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "GGD Amsterdam",
+    "opening_hours": "Monday t/m Thursday 9.00 - 18.00 h. Friday 9.00 - 18.00 h.",
+    "days_open": "Mon-Tue-Wed-Thu-Fri",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9212382,
+     52.3614494
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "alleen open als pierenbadje ook open is als het boven de 20 graden is en mei through september. meer informatie: https://www.amsterdam.nl/sport/zwemmen/openbare/",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8537102,
+     52.383266
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "alleen open als pierenbadje ook open is als het boven de 20 graden is en mei through september.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8858894,
+     52.4139971
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "alleen open als pierenbadje ook open is als het boven de 20 graden is en mei through september.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8095235,
+     52.3825225
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "alleen open als pierenbadje ook open is als het boven de 20 graden is en mei through september.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8176883,
+     52.3551135
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "alleen open als pierenbadje ook open is als het boven de 20 graden is en mei through september.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8549056,
+     52.3274059
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "",
+    "opening_hours": "de boswinkel is geopend op Wednesday t/m Sunday 10.00 - 17.00 h.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8485826,
+     52.3243402
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Het Klein Kinderbad is vanaf mei tot en met september van 10:00 tot 19:00 uur gevuld met water bij een buitentemperatuur van boven de 20 graden en bij droog weer. Als het bad is gevuld zijn de toiletten ook open.",
+    "opening_hours": "",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8221432,
+     52.3166175
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Het Groot Kinderbad is vanaf mei tot en met september van 10:00 tot 19:00 uur gevuld met water bij een buitentemperatuur van boven de 20 graden en bij droog weer. Als het bad is gevuld zijn de toiletten ook open.",
+    "opening_hours": "",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8262613,
+     52.3213381
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Dit toilet is open van 15 maart tot 1 november: van 15 maart tot 1 mei alleen in de weekenden; van 1 mei tot 1 november de hele week.",
+    "opening_hours": "openingstijden zijn 10.00 - 17.00 h.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8166496,
+     52.3061697
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Dit toilet is open van 15 maart tot 1 november: van 15 maart tot 1 mei alleen in de weekenden; van 1 mei tot 1 november de hele week.",
+    "opening_hours": "de openingstijden zijn 10.00 - 17.00 h.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8383892,
+     52.3895766
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "",
+    "opening_hours": "24 hours per day",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8897202,
+     52.3686674
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Urilift",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 7.00 - 9.00 h relocates to underground.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8753739,
+     52.3877248
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Toilet bij kiosk. Zie voor meer info http://www.de-parkwachter.nl/",
+    "opening_hours": "open bij mooi weer 08:30-16:00. Monday t/m Sunday",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8970089,
+     52.3661463
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Rolstoeltoegankelijk zelfreinigend toilet",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 07.00 - 09.00 h relocates to underground.",
+    "days_open": "Daily",
+    "price_eur": 0.5,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8932225,
+     52.3711681
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Rokin 67, Parkeergarage (alleen voor parkeerders)",
+    "opening_hours": "7 dagen per week, 24 hours per day",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9663353,
+     52.3733558
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "24 hours per day geopend",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9663138,
+     52.3732281
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "24 hours per day geopend",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8741075,
+     52.3595001
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0423941,
+     52.3067169
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Stadskantoor",
+    "opening_hours": "alle werkdagen geopend 08.00 - 18.00 h en op Thursdayen tot 20.00 h.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8831523,
+     52.3641961
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "Urilift",
+    "opening_hours": "Thursday through Sunday 18.00 - 7.00 h. between 15.30 - 18.00 h relocates to above ground. between 07.00 - 09.00 h relocates to underground.",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9196013,
+     52.3605006
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "",
+    "opening_hours": "1 april tot 1 oktober 08.00 – 22.00 h 1 oktober tot 1 april: 08.00 – 20.00 h",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.896208,
+     52.3327164
+    ]
+   },
+   "properties": {
+    "name": "Public toilet",
+    "location": "",
+    "opening_hours": "openingstijden de kinderboerderij gesloten november - januari februari - maart: 10 -17 h april - oktober: 10 -18 h alle dagen open tijdens de schoolvakanties",
+    "days_open": "Daily",
+    "price_eur": 0.0,
+    "wheelchair_accessible": false,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8843402,
+     52.3581553
+    ]
+   },
+   "properties": {
+    "name": "Public toilet (wheelchair accessible)",
+    "location": "Toilet, geschikt voor rolstoelgebruikers, met buiten twee urinoirs",
+    "opening_hours": "1 april tot 1 oktober: 08.00 - 22.00 1 oktober tot 1 april: 08.00 - 20.00",
+    "days_open": "Mon-Tue-Wed-Thu-Fri-Sat-Sun",
+    "price_eur": 0.0,
+    "wheelchair_accessible": true,
+    "source": "Gemeente Amsterdam – Openbare toiletten (open data)",
+    "source_url": "https://maps.amsterdam.nl/openbare_toiletten/?LANG=en"
+   }
+  }
+ ]
+}
