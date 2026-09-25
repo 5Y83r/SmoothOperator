@@ -1,0 +1,6 @@
+# SmoothOperator's runtime server (grachtensite/server_api.py) uses only the
+# Python standard library -- no third-party packages needed to run it.
+#
+# grachtensite/filter_canals.py, update_amstel_speed.py, and
+# create_routing_graph.py are one-off data-prep scripts (not used at
+# request time) and need: shapely, networkx, geopandas, fuzzywuzzy

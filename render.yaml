@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: smoothoperator
+    runtime: python
+    plan: free
+    buildCommand: "true"
+    startCommand: "cd grachtensite && python3 server_api.py"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+    autoDeploy: true
